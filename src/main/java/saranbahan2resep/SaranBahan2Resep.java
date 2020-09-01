@@ -20,6 +20,6 @@ public class SaranBahan2Resep {
         System.out.println("1. Pisang");
         System.out.println("2. Telur");
         System.out.println("Masukkan no pilihan Anda ");
-        int bahan1 = scanner.nextInt();
+        int bahan1 = scanner.nextInt(); 
     }
 }
